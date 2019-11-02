@@ -1,0 +1,139 @@
+/* navbar */
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 0.8rem;
+  font-family: 'Montserrat';
+}
+
+
+#selection {
+    background-color: #fff;
+  }
+
+  .card {
+    margin: auto;
+  }
+
+  .colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+  }
+
+  #title .container-fluid {
+    padding: 0 15% 0;
+    text-align: left;
+  }
+
+  .navbar {
+    padding: 0 0 0 0;
+  }
+
+  .navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+  .nav-item {
+    padding: 0 10px;
+  }
+
+  .nav-link {
+    font-size: 0.8rem;
+    font-family: 'Montserrat';
+  }
+
+  .container-fluid {
+    padding: 2% 15%;
+  }
+  .btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+.like {
+  margin-left: 100px;
+}
+
+/* matched */
+.match-img {
+  border-radius: 100%;
+  height:150px;
+  width: 150px;
+}
+.matched {
+  text-align: center;
+}
+.img-left {
+  padding-right: 0;
+  padding-left: 50px;
+}
+.img-right {
+  padding-right: 50px;
+  padding-left: 0;
+}
+.btn-match {
+    margin: 20% 10% 20% 10%;
+    color: #ff4c68;
+}
+.matched-card {
+  background-color: #ff4c68;
+}
+h3 {
+  font-family: 'Sacramento', cursive;
+  color: #fff;
+}
+.p-text {
+  font-family: 'Sacramento', cursive;
+  color: #fff;
+  font-size: 2rem;
+}
+.matched-div {
+  margin-top: 75px;
+  margin-bottom: 100px;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
+#footer {
+  text-align: center;
+}
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+.white-section {
+  background-color: white;
+}
+.download_button {
+  margin: 5% 10% 5% 5%;
+}
